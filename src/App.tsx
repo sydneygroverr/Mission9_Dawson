@@ -9,20 +9,6 @@ interface TeamProps {
   state: string;
 }
 
-// function MyComponent() {
-//   return (
-//     <div>
-//       <h1>Teams</h1>
-
-//       <ul>
-//         {teamsData.teams.map((team) => (
-//           <li key={team.tid}>{team.name}</li>
-//         ))}
-//       </ul>
-//     </div>
-//   );
-// }
-
 function Welcome() {
   return (
     <div>
